@@ -15,6 +15,8 @@ This is repo containing all the fabulous CP material I've come across.
   * Implementation of many(almost all) algorithms required in CP and also for placements.
   * Main languages used: C++ and C
   * This code library is not mine neither is it collected by me.
+  
+### All contributions are welcome.If you come across any amzing source, do contribute!
 
 ## Maintained By:
 * **Vidish Joshi** - [Profile](https://github.com/VidishJoshi)
