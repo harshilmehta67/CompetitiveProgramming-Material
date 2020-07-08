@@ -2,13 +2,18 @@
 This is repo containing all the fabulous CP material I've come across.
 
 
-## List of Books in the repository:
+## List of Books:
 * _Competitve Programming_ by _Steven & Felix Halim_ - 3rd Edition
   * The New Lower Bound of Programming Contests
   * Handbook For ACM ICPC and IOI Contestants
 * _Competitve Programmer's Handbook_ by _Antti Laaksonen_
 * _Basic Combinatorics_ by _Carl G. Wagner_
   * One of the better books on Combinatorics needed and used in competitive programming.
+  
+## Code Libraries:
+* Important CP Material
+  * Implementation of many(almost all) algorithms required in CP and also for placements.
+  * This code library is not mine neither is it collected by me.
 
 ## Maintained By:
 * **Vidish Joshi** - [Profile](https://github.com/VidishJoshi)
