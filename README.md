@@ -6,6 +6,8 @@ This is repo containing all the fabulous CP material I've come across.
 * _Competitve Programming_ by _Steven & Felix Halim_ - 3rd Edition
   * The New Lower Bound of Programming Contests
   * Handbook For ACM ICPC and IOI Contestants
+* _Competitve Programmer's Handbook_ by _Antti Laaksonen_
+
 
 ## Maintained By:
 * **Vidish Joshi** - [Profile](https://github.com/VidishJoshi)
