@@ -9,7 +9,8 @@ This is repo containing all the fabulous CP material I've come across.
 * _Competitve Programmer's Handbook_ by _Antti Laaksonen_
 * _Basic Combinatorics_ by _Carl G. Wagner_
   * One of the better books on Combinatorics needed and used in competitive programming.
-* [NOT IN REPO]_Introduction to Graph Theory_ by _Douglas B. West_
+* _Introduction to Graph Theory_ by _Douglas B. West_
+  * (Not uploaded in this repository...)
   
 ## Code Libraries:
 * Important CP Material
