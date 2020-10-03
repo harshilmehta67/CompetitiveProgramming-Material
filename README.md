@@ -17,7 +17,10 @@ This is repo containing all the fabulous CP material I've come across.
   * Implementation of many(almost all) algorithms required in CP and also for placements.
   * Main languages used: C++ and C
   * This code library is not mine neither is it collected by me.
-  
+
+## Code Snippets
+* C++ Snippet
+* Python Snippet 
   
 All contributions are welcome. If you come across any amazing source, do contribute!
 
